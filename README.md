@@ -1,6 +1,6 @@
 # Jazz-Cafe
 a React app to play jazz loops according to the users' choice
-see on ![codepen](https://codepen.io/opalkm/pen/oNLVdmr)
+see on [codepen](https://codepen.io/opalkm/pen/oNLVdmr)
 
 # Future Development
 - layer the loops to make a song
